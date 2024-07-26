@@ -1,0 +1,84 @@
+#mininav{
+    margin:10px ;
+    padding-left: 100px;
+    margin-bottom: 20px;
+}
+#rn{
+    margin-left: 70px;
+    margin-right: 700px;
+    font-size: x-large;
+    
+
+}
+#mininav>a{
+    display: inline-block;
+    margin-right: 30px;
+
+}
+.first>a{
+    display: inline-block;
+    margin-right: 10px;
+}
+.nav{
+    color: white;
+    text-decoration: none;
+}
+.outer{
+   
+    width: 100%;
+    height: 500px;
+    position: relative;
+    
+}
+/* .inner{
+    position: absolute;
+    top: 170px;
+    left: 42%;
+} */
+.innerone{
+    margin-bottom: 20px;
+}
+#font{
+    font-size: xx-large;
+    color: rgb(255, 221, 0);
+
+}
+#fontone{
+    font-size: xx-large;
+}
+.innerone>button{
+    margin-right: 30px;
+}
+#one{
+    position: absolute;
+    top: 170px;
+    left: 42%;
+
+}
+#two{
+    position: absolute;
+    top: 230px;
+    left: 45%;
+}
+#three{
+    position: absolute;
+    top: 20px;
+    left: 30%;
+
+}
+#four{
+    position: absolute;
+    top: 300px;
+    left: 45%;
+
+}
+#bi{ 
+    background-image: url(https://media.istockphoto.com/id/1387100261/photo/restaurant-interior-part-of-hotel.jpg?s=1024x1024&w=is&k=20&c=ue-0AL5aEb52YUH2akbAbTQbmh2CSeQyz3erLcBYi4E=);    
+    background-attachment: inherit;
+    background-size: cover;
+    background-color: black ;
+    color: white;
+    opacity: 0px;
+    z-index: 1;
+    
+}
